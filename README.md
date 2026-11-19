@@ -14,6 +14,7 @@
 - `pr06-text-classification/` — Практическая работа №6. Классификация текстов с использованием TF-IDF, Naive Bayes и Logistic Regression
 - `pr07-random-forest/` — Практическая работа №7. Случайный лес, сравнение важности признаков и интерпретация модели с помощью SHAP
 - `pr08-gradient-boosting/` — Практическая работа №8. Градиентный бустинг: сравнение XGBoost, LightGBM, CatBoost, ранняя остановка, категориальные признаки
+- `pr09-svm/` — Практическая работа №9. Метод опорных векторов: LinearSVC vs RBF, GridSearch C/gamma, high-dimensional TF-IDF, scaling analysis
 
 
 ## Как запустить любую работу
