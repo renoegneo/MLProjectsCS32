@@ -18,6 +18,7 @@ catboost_info/
 
 # Data
 *.csv
+!pr10/**
 *.tsv
 *.parquet
 data/raw/
